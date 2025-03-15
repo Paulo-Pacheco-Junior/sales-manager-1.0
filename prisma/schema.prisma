@@ -15,7 +15,7 @@ enum UserRole {
 enum SaleStatus {
   Em_aprovisionamento
   Instalada
-  Canceleda
+  Cancelada
   Com_pendencia
   Aguardando_pagamento
   Pendencia_tecnica
