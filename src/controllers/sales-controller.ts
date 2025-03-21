@@ -25,7 +25,7 @@ class SalesController {
         .enum([
           "Em_aprovisionamento",
           "Instalada",
-          "Canceleda",
+          "Cancelada",
           "Com_pendencia",
           "Aguardando_pagamento",
           "Pendencia_tecnica",
@@ -93,7 +93,7 @@ class SalesController {
         },
         orderBy: [
           { saleDate: "desc" },
-          { installationDate: "desc" },
+          { installationDate: "asc" },
           { createdAt: "desc" },
         ],
       });
@@ -107,7 +107,7 @@ class SalesController {
         },
         orderBy: [
           { saleDate: "desc" },
-          { installationDate: "desc" },
+          { installationDate: "asc" },
           { createdAt: "desc" },
         ],
       });
@@ -152,7 +152,7 @@ class SalesController {
         .enum([
           "Em_aprovisionamento",
           "Instalada",
-          "Canceleda",
+          "Cancelada",
           "Com_pendencia",
           "Aguardando_pagamento",
           "Pendencia_tecnica",
