@@ -74,6 +74,7 @@ src/
 | employeeId | string | Único                    |
 | role       | enum   | `seller` ou `supervisor` |
 
+
 **`Sale`**
 
 Campos como:
