@@ -24,7 +24,8 @@
     "jsonwebtoken": "^9.0.2",
     "save-dev": "^0.0.1-security",
     "zod": "^3.23.8",
-    "tsup": "^8.3.0"
+    "tsup": "^8.3.0",
+    "typescript": "^5.5.4"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
@@ -38,7 +39,6 @@
     "supertest": "^7.0.0",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
-    "tsx": "^4.16.2",
-    "typescript": "^5.5.4"
+    "tsx": "^4.16.2"
   }
 }
