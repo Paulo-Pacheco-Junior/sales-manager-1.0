@@ -4,6 +4,15 @@ API RESTful desenvolvida com **Node.js**, **TypeScript** e **Prisma** para geren
 
 ---
 
+## 🌐 Front-end da Aplicação
+
+Você pode visualizar e testar a aplicação em produção com a interface React que consome esta API:
+
+- 🔗 **Site em Produção:** [https://vendasreact.vercel.app](https://vendasreact.vercel.app)
+- 💻 **Repositório do Front-end:** [github.com/Paulo-Pacheco-Junior/minhas-vendas-render-reactjs](https://github.com/Paulo-Pacheco-Junior/minhas-vendas-render-reactjs)
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - [Node.js](https://nodejs.org/)
